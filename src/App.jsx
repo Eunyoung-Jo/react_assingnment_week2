@@ -7,8 +7,8 @@ function App() {
   const [todos, setTodos] = useState([
     {
       id: 1,
-      title: "예시 제목",
-      contents: "예시 내용",
+      title: "스터디",
+      contents: "12, 13강 끝내기",
       isDone: false,
     },
   ]);
